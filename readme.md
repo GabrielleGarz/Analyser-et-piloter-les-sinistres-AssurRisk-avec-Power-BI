@@ -46,10 +46,4 @@ Compte rendu du brief 11/
 
 ## 📊 Aperçu du rapport
 
-| Vue Globale | Typologie & Coûts |
-| :---: | :---: |
-| ![Page 1](Assurisk_page_1.png) | ![Page 2](Assurisk_page_2.png) |
-
-| Analyse Géographique | Impact Météo |
-| :---: | :---: |
-| ![Page 3](Assurisk_page_3.png) | ![Page 4](Assurisk_page_4.png) |
+Visionner les images page par page.
