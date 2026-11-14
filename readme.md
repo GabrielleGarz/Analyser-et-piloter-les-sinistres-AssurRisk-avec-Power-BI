@@ -44,53 +44,12 @@ Compte rendu du brief 11/
 ├── ...
 └── Assurisk page 25.png
 
-
 ## 📊 Aperçu du rapport
 
-![Aperçu 1](Assurisk_page_1.png)
+| Vue Globale | Typologie & Coûts |
+| :---: | :---: |
+| ![Page 1](Assurisk_page_1.png) | ![Page 2](Assurisk_page_2.png) |
 
-![Aperçu 2](Assurisk_page_2.png)
-
-![Aperçu 3](Assurisk_page_3.png)
-
-![Aperçu 4](Assurisk_page_4.png)
-
-![Aperçu 5](Assurisk_page_5.png)
-
-![Aperçu 6](Assurisk_page_6.png)
-
-![Aperçu 7](Assurisk_page_7.png)
-
-![Aperçu 8](Assurisk_page_8.png)
-
-![Aperçu 9](Assurisk_page_9.png)
-
-![Aperçu 10](Assurisk_page_10.png)
-
-![Aperçu 11](Assurisk_page_11.png)
-
-![Aperçu 12](Assurisk_page_12.png)
-
-![Aperçu 13](Assurisk_page_13.png)
-
-![Aperçu 14](Assurisk_page_14.png)
-
-![Aperçu 15](Assurisk_page_15.png)
-
-![Aperçu 16](Assurisk_page_16.png)
-
-![Aperçu 17](Assurisk_page_17.png)
-
-![Aperçu 18](Assurisk_page_18.png)
-
-![Aperçu 19](Assurisk_page_19.png)
-
-![Aperçu 20](Assurisk_page_20.png)
-
-![Aperçu 21](Assurisk_page_21.png)
-
-![Aperçu 22](Assurisk_page_22.png)
-
-![Aperçu 23](Assurisk_page_23.png)
-
-![Aperçu 24](Assurisk_page_24.png)
+| Analyse Géographique | Impact Météo |
+| :---: | :---: |
+| ![Page 3](Assurisk_page_3.png) | ![Page 4](Assurisk_page_4.png) |
