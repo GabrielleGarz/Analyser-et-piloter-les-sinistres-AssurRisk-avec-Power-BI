@@ -1,0 +1,59 @@
+
+Catégoriser les données météo — quelques exemples de seuils
+
+Précipitations : Absence (0 mm) · Faibles (1–10 mm) · Fortes (>
+10 mm)
+
+
+-- 1. Création de la colonne pour les catégories de précipitations
+ALTER TABLE fact_sinistre_meteo 
+ADD COLUMN precipitation_categorie VARCHAR(50);
+
+-- 2. Remplir automatiquement la colonne selon les seuils
+UPDATE fact_sinistre_meteo
+SET precipitation_categorie = CASE 
+    WHEN precipitation_sum = 0 THEN 'Absence'
+    WHEN precipitation_sum> 0 AND precipitation_sum <= 10 THEN 'Faibles'
+    WHEN precipitation_sum > 10 THEN 'Fortes'
+    ELSE 'Non renseigné'
+END;
+
+
+Température max : Froid (< 5°C) · Modéré (5–25°C) · Chaud (>
+25°C
+
+
+
+-- 1. Création de la colonne pour les catégories de température max
+ALTER TABLE fact_sinistre_meteo 
+ADD COLUMN temperature_2m_max_categorie VARCHAR(50);
+
+-- 2. Remplir automatiquement la colonne selon les seuils
+UPDATE fact_sinistre_meteo
+SET temperature_2m_max_categorie = CASE 
+    WHEN temperature_2m_max < = 5  THEN 'Froid'
+    WHEN temperature_2m_max > 5 AND temperature_2m_max <= 25 THEN 'Modéré'
+    WHEN temperature_2m_max > 25 THEN 'Chaud'
+    ELSE 'Non renseigné'
+END;
+
+
+Rafales : Faible (< 30 km/h) · Modéré (30–60 km/h) · Fort (> 60
+km/h)
+
+
+-- 1. Création de la colonne pour les catégories de rafales
+ALTER TABLE fact_sinistre_meteo 
+ADD COLUMN wind_gusts_10m_max_categorie VARCHAR(50);
+
+-- 2. Remplir automatiquement la colonne selon les seuils
+UPDATE fact_sinistre_meteo
+SET  wind_gusts_10m_max_categorie = CASE 
+    WHEN wind_gusts_10m_mxa < = 30  THEN 'Faible'
+    WHEN wind_gusts_10m_max between 30 and 60 THEN 'Modéré'
+    WHEN wind_gusts_10m_max > 60 THEN 'Fort'
+    ELSE 'Non renseigné'
+END;
+
+
+
