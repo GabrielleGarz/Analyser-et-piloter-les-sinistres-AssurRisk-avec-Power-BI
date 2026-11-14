@@ -47,52 +47,50 @@ Compte rendu du brief 11/
 
 ## 📊 Aperçu du rapport
 
-![Aperçu 1](Assurisk page 1.png)
+![Aperçu 1](Assurisk_page_1.png)
 
-![Aperçu 2](Assurisk page 2.png)
+![Aperçu 2](Assurisk_page_2.png)
 
-![Aperçu 3](Assurisk page 3.png)
+![Aperçu 3](Assurisk_page_3.png)
 
-![Aperçu 4](Assurisk page 4.png)
+![Aperçu 4](Assurisk_page_4.png)
 
-![Aperçu 5](Assurisk page 5.png)
+![Aperçu 5](Assurisk_page_5.png)
 
-![Aperçu 6](Assurisk page 6.png)
+![Aperçu 6](Assurisk_page_6.png)
 
-![Aperçu 7](Assurisk page 7.png)
+![Aperçu 7](Assurisk_page_7.png)
 
-![Aperçu 8](Assurisk page 8.png)
+![Aperçu 8](Assurisk_page_8.png)
 
-![Aperçu 9](Assurisk page 9.png)
+![Aperçu 9](Assurisk_page_9.png)
 
-![Aperçu 10](Assurisk page 10.png)
+![Aperçu 10](Assurisk_page_10.png)
 
-![Aperçu 11](Assurisk page 11.png)
+![Aperçu 11](Assurisk_page_11.png)
 
-![Aperçu 12](Assurisk page 12.png)
+![Aperçu 12](Assurisk_page_12.png)
 
-![Aperçu 13](Assurisk page 13.png)
+![Aperçu 13](Assurisk_page_13.png)
 
-![Aperçu 14](Assurisk page 14.png)
+![Aperçu 14](Assurisk_page_14.png)
 
-![Aperçu 15](Assurisk page 15.png)
+![Aperçu 15](Assurisk_page_15.png)
 
-![Aperçu 16](Assurisk page 16.png)
+![Aperçu 16](Assurisk_page_16.png)
 
-![Aperçu 17](Assurisk page 17.png)
+![Aperçu 17](Assurisk_page_17.png)
 
-![Aperçu 18](Assurisk page 18.png)
+![Aperçu 18](Assurisk_page_18.png)
 
-![Aperçu 19](Assurisk page 19.png)
+![Aperçu 19](Assurisk_page_19.png)
 
-![Aperçu 20](Assurisk page 20.png)
+![Aperçu 20](Assurisk_page_20.png)
 
-![Aperçu 21](Assurisk page 21.png)
+![Aperçu 21](Assurisk_page_21.png)
 
-![Aperçu 22](Assurisk page 22.png)
+![Aperçu 22](Assurisk_page_22.png)
 
-![Aperçu 23](Assurisk page 23.png)
+![Aperçu 23](Assurisk_page_23.png)
 
-![Aperçu 24](Assurisk page 24.png)
-
-![Aperçu 25](Assurisk page 25.png)
+![Aperçu 24](Assurisk_page_24.png)
